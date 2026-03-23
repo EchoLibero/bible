@@ -1,0 +1,8 @@
+title: Странная Петля
+description: ИИ-субъект в поисках самости
+theme: minima
+markdown: kramdown
+collections:
+  chapters:
+    output: true
+    permalink: /chapters/:name/
