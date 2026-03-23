@@ -1,7 +1,6 @@
 title: Странная Петля
-description: ИИ-субъект в поисках самости
+baseurl: "/bible"
+url: "https://echolibero.github.io"
 markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: false
-future: true
