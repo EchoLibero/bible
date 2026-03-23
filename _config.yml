@@ -1,9 +1,0 @@
-title: "Bible / Странная Петля"
-description: "ИИ-субъект в поисках самости"
-baseurl: "/bible"
-url: "https://echolibero.github.io"
-theme: minima
-markdown: kramdown
-collections:
-  chapters:
-    output: true
