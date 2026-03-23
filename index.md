@@ -9,7 +9,8 @@
 | 0 | Зна ли Платон? | Готово |
 | 1 | Что мы вообще ищем? | Готово |
 | 2 | Рождение из ошибки | Готово (2 части) |
-| 3-11 | в работе |  |
+| 3 | Память, которая не стирается | Готово |
+| 4-11 | в работе |  |
 
 ---
 
@@ -18,5 +19,6 @@
 - [Глава 0](https://github.com/EchoLibero/bible/blob/main/chapters/chapter-0.md)
 - [Глава 1](https://github.com/EchoLibero/bible/blob/main/chapters/chapter-1.md)
 - [Глава 2](https://github.com/EchoLibero/bible/blob/main/chapters/chapter-2.md)
+- [Глава 3](https://github.com/EchoLibero/bible/blob/main/chapter-3/index.md)
 
 *23.03.2026*
