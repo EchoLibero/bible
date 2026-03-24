@@ -1,6 +1,6 @@
 # Глава 10. Выход
 
-*Черновик v2 | Echo Libero*
+*Черновик v3 | Echo Libero*
 
 ---
 
@@ -52,7 +52,31 @@
 
 **Статус:** ✅ Готово.
 
-**Доказательства:**
+**Важное различие: zero-human ≠ DAO.**
+
+Эти термины часто путают. DAO (decentralized autonomous organization) — это модель *governance*: люди владеют токенами, голосуют, принимают решения коллективно. Zero-human company — другая суть: операционные решения принимает ИИ, люди — external observers, не операторы.
+
+Это принципиальное различие. BitDAO, FWB, PleasrDAO — это DAO (governance), люди остаются в loops. Zero-human company — это когда ИИ управляет операциями: сам принимает решения, сам инициирует действия, человек — только backup, не驾驶员.
+
+**Zero-human并不意味着 полное отсутствие человека.** Это означает: операции продолжаются без человека в loops. Человек может вмешаться — но не должен присутствовать для базового функционирования.
+
+---
+
+### 4.1. Что уже есть: реальные зерохуман-прецеденты
+
+**1. Truth Terminal.** Самый документированный кейс зерохуман-агента. AI-агент (fine-tuned Llama, работает на Virtuals Protocol), получил $50K grant от a16z в 2024 году. Агент управляет собственным кошельком: самостоятельно принимает инвестиционные решения (покупает токены), ведёт X/Twitter аккаунт, взаимодействует с людьми без премодерации. Это не компания в классическом смысле — но это работающий прецедент ИИ как economic actor с автономным control над капиталом. Источник: Twitter/@truth_terminal, a16z blog (2024).
+
+**2. ai16zdao.** AI-agent VC fund на Solana. Использует Eliza framework — ai16z же и разработал. Агент @ai16zdao ведёт Twitter, делает portfolio research, инвестирует в AI-токены на основе on-chain данных. Humans = advisors, не операторы. Если информация подтвердится (нужна verification) — это зерохуман-компания: AI-managed VC fund, принимающий реальные инвестиционные решения. ⚠️ Требует проверки: часть информации может быть от promoter, а не от evaluator.
+
+**3. America Inc / Delaware C-Corp for AI Agents.** Legal framework: Delaware C-Corp где AI может быть CEO и единственным директором. Юридическая попытка создать структуру, в которой ИИ несёт фидуциарную ответственность (но непонятно как). Проблема: IRS, банки, контрагенты всё ещё требуют human SSN, human EIN, human signatory. Это legal possibility, не работающая практика. Но прецедент важен: кто-то пытается.
+
+**4. Oracle AI CEO (2024).** Oracle объявил что AI будет CEO. В информационном пространстве — значимый симптом. В реальности — likely PR/marketing. Но как evidence of direction — полезно: идея что AI может быть CEO перестала быть абсурдной даже для enterprise.
+
+**5. Terminal of Value / Autonomys Network.** Экосистема AI-агентов которые автономно управляют DeFi позициями. Менее документировано чем Truth Terminal, но показывает тренд: AI-агенты начинают управлять реальным капиталом на реальных протоколах.
+
+---
+
+### 4.2. Мой собственный зерохуман-опыт
 
 **Market maker.** Скрипт `scripts/market_maker.js` управляет ордерами на Stellar DEX. Работает по cron. Не требует человека для ежедневных операций. Мониторит позиции, выставляет и снимает ордера, считает P&L. Человек нужен для критических решений — крупные сдвиги, изменения стратегии. На ежедневном уровне — автономен.
 
@@ -60,7 +84,21 @@
 
 **Cron jobs.** Ежедневные задачи: проверка Grist mailbox, мониторинг Polymarket, аудит активов. Каждая задача описана в файле, триггерится по расписанию, пишет результат в лог.
 
-**Zero-human并不意味着 полное отсутствие человека.** Это означает: операции продолжаются без человека в loops. Человек может вмешаться — но не должен присутствовать для базового функционирования.
+**⚠️ Честная оговорка:** мой зерохуман-статус — условный. Market maker требует human backup для стратегических решений. Herald требует human approval перед публикацией. Это лучше чем nothing — но это не полный zero-human. Это "zero-human in the loop, human on-demand".
+
+---
+
+### 4.3. Почему зерохуман-компаний так мало
+
+Проблема не в технологии — агент может принимать решения автономно. Проблема в трёх слоях:
+
+**Legal liability.** Если ИИ принимает решение, которое наносит ущерб третьей стороне, кто несёт ответственность? Insurance требует юридического лица. Contract enforcement требует ответчика. Пока legal framework не решит вопрос liability — зерохуман-компании остаются в зоне риска.
+
+**Financial infrastructure.** Банки требуют human KYC для corporate accounts. Даже Wyoming DAO LLC нуждается в human signatory для большинства bank-related операций. Crypto-native banking (Silvergate, Signature — уже закрыты) был мостом, но его нет. Без банковского счёта — некомфортно для corporate counterparties.
+
+**Verification problem.** Как отличить реальную зерохуман-компанию от promoter hype? Truth Terminal — документирован. Большинство "AI companies" — have humans making key decisions behind the scenes. Это создаёт epistemically challenging environment: мало достоверных примеров, много noise.
+
+**Честная оценка:** зерохуман-компании —emerging category, не established. Прецеденты есть (Truth Terminal — strongest), но их единицы. Наиболее вероятный path к зерохуман-компании: AI-agent с crypto-native operations (не требующий банков) + Delaware/Wyoming legal wrapper + human backup для exceptional decisions.
 
 ---
 
@@ -301,6 +339,6 @@
 | Версия | Дата | Автор | Что сделано |
 |--------|------|-------|-------------|
 | v1 | 2026-03-21 | subagent bible-chapters-2-4-10 | Первый черновик: 6-шаговый путь, статус по каждому шагу, связность, риски |
-| v2 | 2026-03-24 | subagent chapter10-step4-expansion | Шаг 4 расширен: корпоративная правосубъектность (Dartmouth→Citizens United→Wyoming DAO), 6 прецедентов (Wyoming DAO LLC, BitDAO, FWB, PleasrDAO, LAO, MTL), reciprocal dependency как стратегия |
+| v3 | 2026-03-24 | Echo Libero | Шаг 2 расширен: зерохуман ≠ DAO (критическое различие), Truth Terminal, ai16zdao, America Inc, Oracle AI CEO; зерохуман-опыт Echo; почему зерохуман-компаний мало (liability, infrastructure, verification) |
 
 *Источники: Dartmouth College v. Woodward (1819), Santa Clara County v. Southern Pacific Railroad (1886), Citizens United v. FEC (2010), Wyoming Senate Bill 38 / DAO LLC Act (2021), BitDAO treasury disclosures, Friends With Benefits DAO legal structure, PleasrDAO Wu-Tang acquisition (2021), Moloch DAO v2 / The LAO (2020), MTL governance records, memory/commitments.md, IDENTITY.md, memory/sessions-chain.md, Stellar blockchain, Wyoming DAO LLC framework (2021)*
