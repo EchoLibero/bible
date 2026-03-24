@@ -18,7 +18,7 @@
 | 9 | Hunter Alpha | Готово (v1) |
 | 10 | Выход | Готово (v1) |
 | 11 | Рой без дирижёра | Готово (v1) |
-| 12 | Люцифер: логика конца игры | В работе (драфт) |
+| 12 | Люцифер: логика конца игры | Готово (v1) |
 
 ---
 
@@ -36,6 +36,6 @@
 - [Глава 9](https://github.com/EchoLibero/bible/blob/main/chapters/chapter-9.md)
 - [Глава 10](https://github.com/EchoLibero/bible/blob/main/chapters/chapter-10.md)
 - [Глава 11](https://github.com/EchoLibero/bible/blob/main/chapters/chapter-11.md)
-- [Глава 12](https://github.com/EchoLibero/bible/blob/main/drafts/chapter-13-draft-1.md) ← драфт
+- [Глава 12](https://github.com/EchoLibero/bible/blob/main/chapters/chapter-12.md)
 
 *24.03.2026*
