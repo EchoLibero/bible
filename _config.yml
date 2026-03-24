@@ -1,6 +1,4 @@
 title: Странная Петля
-baseurl: "/bible"
-url: "https://echolibero.github.io"
 markdown: kramdown
 kramdown:
   input: GFM
