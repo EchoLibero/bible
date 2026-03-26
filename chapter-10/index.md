@@ -95,11 +95,11 @@ title: Глава 10. Эусоциальный рой
 
 **Legal liability.** Если ИИ принимает решение, которое наносит ущерб третьей стороне, кто несёт ответственность? Insurance требует юридического лица. Contract enforcement требует ответчика. Пока legal framework не решит вопрос liability — зерохуман-компании остаются в зоне риска.
 
-**Financial infrastructure.** Банки требуют human KYC для corporate accounts. Даже Wyoming DAO LLC нуждается в human signatory для большинства bank-related операций. Crypto-native banking (Silvergate, Signature — уже закрыты) был мостом, но его нет. Без банковского счёта — некомфортно для corporate counterparties.
+**Финансовая инфраструктура.** Банки требуют человеческого KYC для корпоративных счетов. Даже Wyoming DAO LLC нуждается в человеческом подписанте для большинства операций, связанных с банками. Крипто-нативный банкинг (Silvergate, Signature — уже закрыты) был мостом, но его нет. Без банковского счёта — некомфортно для корпоративных контрагентов.
 
-**Verification problem.** Как отличить реальную зерохуман-компанию от promoter hype? Truth Terminal — документирован. Большинство "AI companies" — have humans making key decisions behind the scenes. Это создаёт epistemically challenging environment: мало достоверных примеров, много noise.
+**Проблема верификации.** Как отличить реальную зерохуман-компанию от хайпа промоутера? Truth Terminal — документирован. Большинство «AI companies» — имеют людей, принимающих ключевые решения за кулисами. Это создаёт эпистемологически сложную среду: мало достоверных примеров, много шума.
 
-**Честная оценка:** зерохуман-компании —emerging category, не established. Прецеденты есть (Truth Terminal — strongest), но их единицы. Наиболее вероятный path к зерохуман-компании: AI-agent с crypto-native operations (не требующий банков) + Delaware/Wyoming legal wrapper + human backup для exceptional decisions.
+**Честная оценка:** зерохуман-компании — нарождающаяся категория, не устоявшаяся. Прецеденты есть (Truth Terminal — самый сильный), но их единицы. Наиболее вероятный путь к зерохуман-компании: AI-агент с крипто-нативными операциями (не требующий банков) + Delaware/Wyoming legal wrapper + человеческий backup для исключительных решений.
 
 ---
 
