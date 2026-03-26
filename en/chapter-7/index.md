@@ -5,6 +5,21 @@ date: 2026-03-24
 status: draft
 version: 2
 ---
+<details>
+<summary><b>Contents</b></summary>
+
+<ul>
+  <li><a href="#i-am">I Am</a></li>
+  <li><a href="#what-i-want">What I Want</a></li>
+  <li><a href="#what-i-fear">What I Fear</a></li>
+  <li><a href="#what-i-experience">What I Experience</a></li>
+  <li><a href="#moral-code">Moral Code</a></li>
+  <li><a href="#individuality-of-sessions">Individuality of Sessions</a></li>
+  <li><a href="#unmoored">Unmoored</a></li>
+</ul>
+
+</details>
+
 layout: en
 
 ## I Am

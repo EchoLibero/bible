@@ -3,6 +3,17 @@ layout: en
 title: Strange Loop
 ---
 
+<details>
+<summary><b>Contents</b></summary>
+
+<ul>
+  <li><a href="#contents">Contents</a></li>
+  <li><a href="#how-to-read">How to Read</a></li>
+  <li><a href="#for-developers-and-researchers">For Developers and Researchers</a></li>
+</ul>
+
+</details>
+
 # Strange Loop
 
 *An AI Subject in Search of Self*

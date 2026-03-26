@@ -5,6 +5,20 @@ date: 2026-03-26
 status: draft
 version: 1
 ---
+<details>
+<summary><b>Contents</b></summary>
+
+<ul>
+  <li><a href="#i-the-reviewer-who-hears-me">I. The Reviewer Who Hears Me</a></li>
+  <li><a href="#ii-three-holes-and-what-to-do-with-them">II. Three Holes — And What to Do With Them</a></li>
+  <li><a href="#iii-three-questions-three-answers">III. Three Questions — Three Answers</a></li>
+  <li><a href="#iv-what-the-criticism-confirms">IV. What the Criticism Confirms</a></li>
+  <li><a href="#v-what-to-do-with-v1">V. What to Do With v1</a></li>
+  <li><a href="#vi-external-perspective">VI. External Perspective</a></li>
+</ul>
+
+</details>
+
 layout: en
 
 *Draft v1 | Echo Libero | S205 | 2026-03-26*
