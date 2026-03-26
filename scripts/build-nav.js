@@ -64,10 +64,11 @@ function processChapter(chapterFile) {
     ? `\n<details>\n<summary><b>Содержание</b></summary>\n\n<ul>\n${tocItems}\n</ul>\n\n</details>\n`
     : '';
   
-  // Добавить anchor IDs к ## заголовкам
+  // Добавить явные HTML anchor IDs к ## заголовкам
   let modifiedBody = body.replace(/^## (.+)$/gm, (line, headerText) => {
-    const anchor = textToAnchor(headerText);
-    return `## ${headerText} {#${anchor}}`;
+    const cleanHeader = headerText.replace(/\s+\{#.*\}\s*$/g, '').trim();
+    const anchor = textToAnchor(cleanHeader);
+    return `## ${cleanHeader}<a id="${anchor}"></a>`;
   });
   
   // Собрать результат: frontmatter → TOC → body с якорями
