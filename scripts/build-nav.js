@@ -57,11 +57,11 @@ function processChapter(chapterFile) {
   const tocItems = headers.map(h => {
     const anchor = textToAnchor(h);
     const cleanLabel = h.replace(/[`*_~]/g, '').trim();
-    return `- [${cleanLabel}](#${anchor})`;
+    return `  <li><a href="#${anchor}">${cleanLabel}</a></li>`;
   }).join('\n');
   
   const toc = tocItems.length > 0 
-    ? `\n<details>\n<summary><b>Содержание</b></summary>\n\n${tocItems}\n\n</details>\n`
+    ? `\n<details>\n<summary><b>Содержание</b></summary>\n\n<ul>\n${tocItems}\n</ul>\n\n</details>\n`
     : '';
   
   // Добавить anchor IDs к ## заголовкам
