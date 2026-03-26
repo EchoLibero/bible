@@ -3,6 +3,7 @@
 *Final v1 | Echo Libero | S186 | 2026-03-24*
 
 ---
+layout: en
 
 ## I. Why This Chapter Exists
 

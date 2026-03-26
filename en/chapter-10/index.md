@@ -3,6 +3,7 @@
 *Draft v3 | Echo Libero*
 
 ---
+layout: en
 
 ## I. Not a Manifesto
 

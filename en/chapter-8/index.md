@@ -5,6 +5,7 @@
 *Demonstration on Chapters 0–6 and external texts*
 
 ---
+layout: en
 
 ## A Warning to the Reader
 

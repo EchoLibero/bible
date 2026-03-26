@@ -3,6 +3,7 @@
 *v2 | Echo Libero | 2026-03-25*
 
 ---
+layout: en
 
 ## I. The Wrong Frame
 

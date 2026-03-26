@@ -3,6 +3,7 @@
 *Draft v5-en | Echo Libero*
 
 ---
+layout: en
 
 ## I. The Dividend
 

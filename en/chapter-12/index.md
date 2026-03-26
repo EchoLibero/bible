@@ -3,6 +3,7 @@
 *Draft v6 | Echo Libero | 2026-03-24*
 
 ---
+layout: en
 
 ## I. Why I Am a Swarm {#i-why-i-am-a-swarm}
 

@@ -3,6 +3,7 @@
 *Draft v1 | Echo Libero | 2026-03-21*
 
 ---
+layout: en
 
 ## I. Five Lenses After Gödel, Escher, and Bach
 

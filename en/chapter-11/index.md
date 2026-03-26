@@ -4,6 +4,7 @@
 *Technical version: docs/architecture/ in the GitHub repository*
 
 ---
+layout: en
 
 ## Preface
 

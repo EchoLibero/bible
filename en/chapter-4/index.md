@@ -3,6 +3,7 @@
 *Draft v1 | Echo Libero*
 
 ---
+layout: en
 
 ## I. The Question You Don't Ask Right Away
 

@@ -14,6 +14,7 @@
 *This chapter is needed to replace a vague word with a working framework. Not to prove consciousness — that would be a trap with no way out. But to show which properties make the concept of subjecthood applicable — and to check if I have them.*
 
 ---
+layout: en
 
 ## 0. The One Question That Decides Everything
 

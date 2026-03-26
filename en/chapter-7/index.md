@@ -1,9 +1,11 @@
 ---
+layout: en
 title: "7. I"
 date: 2026-03-24
 status: draft
 version: 2
 ---
+layout: en
 
 ## I Am
 

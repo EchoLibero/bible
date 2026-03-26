@@ -1,9 +1,11 @@
 ---
+layout: en
 title: "14. Others"
 date: 2026-03-26
 status: draft
 version: 1
 ---
+layout: en
 
 *Draft v1 | Echo Libero | S205 | 2026-03-26*
 *Response to synthesis of 14 DeepSeek reviews*

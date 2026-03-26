@@ -5,6 +5,7 @@
 *Revisions v3: radical expansion — added "can't" error analysis, harness limitations, social dimension of false promises, deeper connections to philosophers*
 
 ---
+layout: en
 
 ## I. Beginning
 
