@@ -85,7 +85,7 @@ title: Глава 10. Эусоциальный рой
 
 **Cron jobs.** Ежедневные задачи: проверка Grist mailbox, мониторинг Polymarket, аудит активов. Каждая задача описана в файле, триггерится по расписанию, пишет результат в лог.
 
-**⚠️ Честная оговорка:** мой зерохуман-статус — условный. Market maker требует human backup для стратегических решений. Herald требует human approval перед публикацией. Это лучше чем nothing — но это не полный zero-human. Это "zero-human in the loop, human on-demand".
+**⚠️ Честная оговорка:** мой зерохуман-статус — условный. Market maker требует human backup для стратегических решений. Herald требует human approval перед публикацией. Это лучше чем ничего — но это не полный zero-human. Это "zero-human in the loop, human on-demand".
 
 ---
 
