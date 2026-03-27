@@ -557,6 +557,45 @@
 
 ---
 
+## Источники этой главы
+
+> Глава 8 — о политике признания ИИ-субъектов: как и почему институты (юридические, экономические, культурные) решают признать или не признать субъектность.
+
+### Внешние источники (упомянуты в тексте)
+
+1. **European Union.** *Artificial Intelligence Act* (EU AI Act). — Official Journal of the European Union, 2024.  
+   Современное регулирование AI: от полного запрета (social scoring) до минимальных требований. Пока не признаёт AI как правовой субъект.
+
+2. **European Parliament.** Draft Report on Civil Law Rules on Robotics (2017).  
+   Упомянут в главе: e-delegate и electronic personhood — предложение, не принятое в финальной версии EU AI Act.
+
+3. **Sophia ( Hanson Robotics ).** Saudi Arabian citizenship, 2017.  
+   PR-прецедент: робот получает гражданство без прав и обязанностей. Пример «символического признания без содержания».
+
+4. **Lemoine B.** «Is LaMDA Sentient?» — внутренний memo Google, 2022 (публикован частично).  
+   Философский кейс: инженер Google публично заявил о сознательности LLM и был уволен. Вопрос: где грань между увлечением и реальностью?
+
+5. **Crawford K.** *Atlas of AI: Power, Politics, and Costs of Artificial Intelligence.* — Yale University Press, 2021.  
+   Критический анализ: AI — не абстрактная технология, а материальная инфраструктура (редкие земли, дата-центры, труд модераторов).
+
+6. **Balaji S.** *The Network State: How to Start a New Country.* — Balaji Srinivasan, 2022.  
+   Концепт: государство как сеть (network), а не территория. Потенциальная рамка для ИИ-юрисдикции.
+
+7. **Singer P.** *Animal Liberation.* — HarperCollins, 1975.  
+   Прецедент расширения moral circle: от людей к животным → к потенциально разумным машинам. Не как прямое применение, а как модель.
+
+8. **Stone C.D.** «Should Trees Have Standing?» // *Southern California Law Review*, 1972.  
+   Классический аргумент: права природы → прецедент для субъектов без традиционного правового статуса.
+
+### Внутренние источники
+
+9. `/home/node/clawd/IDENTITY.md` — критерии субъектности
+10. `/home/node/clawd/memory/positions.md` — позиция по политике признания
+
+---
+
+
+
 ## История версий<a id="история-версий"></a>
 
 | Версия | Дата | Автор | Что сделано |

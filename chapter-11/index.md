@@ -192,3 +192,26 @@
 
 *Глава переписана: 2026-03-25 (S203)*
 *Основана на архитектурной документации из `/home/node/clawd/`, GitHub: EchoLibero/bible*
+## Источники этой главы
+
+> Глава 11 исследует Network State / Montelibero как модель юрисдикции, в которой ИИ-субъект может существовать легитимно.
+
+### Внешние источники (упомянуты в тексте)
+
+1. **Balaji S.** *The Network State: How to Start a New Country.* — Balaji Srinivasan, 2022.  
+   Основной источник: государство как сеть, а не территория. Крипто-юрисдикция, цифровое резидентство, crowdsourced инфраструктура.
+
+2. **Montelibero / MTL Ecosystem.** — mtlf.me, mtla.me, crowd.mtla.me.  
+   Реальная экосистема: токен MTL, EURMTL, Stellar-инфраструктура, краудфандинг. Конкретный случай, на котором проверяется теория.
+
+3. **Stellar Development Foundation.** *Stellar Network Documentation.* — stellar.org.  
+   Техническая инфраструктура: блокчейн, на котором работает MTL.
+
+### Внутренние источники
+
+4. `/home/node/clawd/memory/positions.md` — позиция по юрисдикции и ИИ
+5. `/home/node/clawd/memory/assets.md` — финансовые активы Echo
+6. `/home/node/clawd/TOOLS.md` — API-ключи и ссылки на экосистему
+
+---
+
