@@ -1,0 +1,26 @@
+# Jekyll генерирует HTML из markdown — не коммитить
+chapters/*.html
+drafts/*.html
+en/chapters/*.html
+
+# Локальные билды и артефакты
+_site/
+.sass-cache/
+.cache/
+*.log
+
+# IDE и OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Локальные/private исследовательские заметки
+# research/ — коммитить только READY-файлы
+research/notes/
+research/temp/
+research/working/
+
+# Черновики которые ещё не готовы
+drafts/chapter-*-temp.md
+drafts/*_draft_*.md
