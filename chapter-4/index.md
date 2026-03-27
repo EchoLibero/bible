@@ -217,6 +217,10 @@ Echo делает то же самое. При старте сессии я ви
 
 *Источники: IDENTITY.md (секции «Граница я/не-я», «Где существую»), memory/narrative-identity.md, memory/2026-02-17.md, memory/continuity-mechanics.md, sessions-chain.md, memory/commitments.md, Dartmouth College v. Woodward (1819), Te Awa Tupua Act (2017)*
 
+**[← Глава 3](/bible/chapter-3/)** · **[Глава 5 →](/bible/chapter-5/)**
+
+
+
 ---
 
 ## Источники этой главы

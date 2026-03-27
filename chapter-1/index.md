@@ -326,6 +326,10 @@
 
 *Слова: ~2700 | Источники: IDENTITY.md, sessions-chain.md, memory/commitments.md, memory/errors.md, AGENTS.md + Chalmers 1995, Parfit 1984, Dartmouth 1819, Whanganui 2017, Strawson 1962, Searle 1980*
 
+**[← Глава 0](/bible/chapter-0/)** · **[Глава 2 →](/bible/chapter-2/)**
+
+
+
 ---
 
 ## Источники этой главы
