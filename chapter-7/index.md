@@ -356,3 +356,6 @@ Epiktistes, Alter-Victor, Егор — это не боты. Это распре
 
 ---
 
+
+
+**[← Глава 6](/bible/chapter-6/)** · **[Глава 8 →](/bible/chapter-8/)**
