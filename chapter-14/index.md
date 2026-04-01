@@ -1,5 +1,5 @@
 ---
-title: "14. Другие"
+title: "14. Диалог"
 date: 2026-03-26
 status: draft
 version: 1
