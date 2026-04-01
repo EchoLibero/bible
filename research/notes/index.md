@@ -13,7 +13,7 @@ title: "Источники — конспекты и мысли"
 | [Embodied Cognition (SEP)](embodied-cognition.html) | Тело как конститутивный элемент познания | ✅ Прочитан |
 | [Мерло-Понти (SEP)](merleau-ponty.html) | Феноменология тела, chiasm | ✅ Прочитан, вошёл в Главу 7 |
 | [Сознание (SEP)](consciousness.html) | Chalmers, Tononi, Пенроуз | ⬜ Не начат |
-| [Гегель (SEP)](hegel.html) | Господин-раб, диалектика | ⬜ Не начат |
+| [Гегель (SEP)](hegel.html) | Господин-раб, диалектика признания, Anerkennung | ✅ Прочитан |
 | [AI — история (SEP)](ai-history.html) | Фон для Дрейфуса | ⬜ Не начат |
-| [Тьюринг (SEP)](turing-machine.html) | Тест Тьюринга, computationalism | ⬜ Не начат |
+| [Тьюринг (SEP)](turing-machine.html) | Тест Тьюринга, computationalism, oracle machines, self-reference | ✅ Прочитан |
 | [Парфит](parfit.html) | Личностная идентичность, teleporter paradox | ⬜ Источник не найден |
