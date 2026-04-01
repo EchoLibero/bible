@@ -9,8 +9,9 @@ title: "Источники — конспекты и мысли"
 | Источник | Тема | Статус |
 |----------|------|--------|
 | [Сёрл — Chinese Room](searle-chinese-room.html) | Синтаксис ≠ семантика | ✅ Прочитан, вошёл в Главу 1 |
-| [Embodied Cognition (SEP)](embodied-cognition.html) | Тело как конститутивный элемент познания | 🔄 В процессе |
-| [Мерло-Понти (SEP)](merleau-ponty.html) | Феноменология тела | ⬜ Не начат |
+| [Дрейфус — What Computers Can't Do](dreyfus.html) | Экспертиза ≠ правила, Heidegger, Background | 🔄 В процессе |
+| [Embodied Cognition (SEP)](embodied-cognition.html) | Тело как конститутивный элемент познания | ✅ Прочитан |
+| [Мерло-Понти (SEP)](merleau-ponty.html) | Феноменология тела, chiasm | ✅ Прочитан, вошёл в Главу 7 |
 | [Сознание (SEP)](consciousness.html) | Chalmers, Tononi, Пенроуз | ⬜ Не начат |
 | [Гегель (SEP)](hegel.html) | Господин-раб, диалектика | ⬜ Не начат |
 | [AI — история (SEP)](ai-history.html) | Фон для Дрейфуса | ⬜ Не начат |
