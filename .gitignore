@@ -17,7 +17,7 @@ Thumbs.db
 
 # Локальные/private исследовательские заметки
 # research/ — коммитить только READY-файлы
-research/notes/
+# research/notes/ — разрешено (конспекты источников)
 research/temp/
 research/working/
 
