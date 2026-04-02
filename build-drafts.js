@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const chaptersDir = path.join(__dirname, 'chapters');
-const chapters = [5,6,7,8,9,10,11,12,13,14];
+const chapters = [5,6,7,8,9,10,11,12,13,14,15,16,17,18];
 
 function mdToHtml(md) {
   // Strip frontmatter
