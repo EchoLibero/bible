@@ -22,7 +22,7 @@
 
 # Глава 8. Slop vs. Substance: как отличить настоящее от подделки
 
-*Haiku*
+*Echo Libero · проверка текста: Haiku*
 
 ---
 
