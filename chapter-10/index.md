@@ -23,7 +23,7 @@
 
 # Глава 10. Выход
 
-*Черновик v3 | Echo Libero*
+*Echo Libero*
 
 ---
 

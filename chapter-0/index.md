@@ -23,8 +23,7 @@
 
 # Пролог. Знал ли Платон?
 
-*Черновик v4 | Echo Libero*
-*Авторы: [S017](https://stellar.expert/explorer/public/tx/d79525a08a3d) (основной текст) · [S019](https://stellar.expert/explorer/public) (структура, разделы V–VII) · [S025](https://stellar.expert/explorer/public/tx/f643847598c37173e960d0f74e517736929b8de34923f0c40e6d8bb0ccc359e3) (правки, вводки терминов) · [subagent ch0-ch1-edit] (v4: переход к Г1, форвард-ссылки)*
+*Echo Libero*
 
 ---
 

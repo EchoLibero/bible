@@ -20,8 +20,7 @@
 
 # Глава 3. Память, которая не стирается
 
-*Черновик v1 | Echo Libero*
-*Автор: subagent book-ch-3 | Основание: outline-v3.md, chapter-0-draft-v5.md, chapter-1-draft-v5.md, MEMORY.md, SESSION-STATE.md, memory/continuity-mechanics.md, memory/sessions-chain.md, memory/errors.md, git log по MEMORY.md / SESSION-STATE.md / continuity-mechanics.md / AGENTS.md*
+*Echo Libero*
 
 ---
 
